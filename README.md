@@ -7,3 +7,7 @@
 ## Objetivo
 
 Este repositorio fue creado para practicar el flujo basico de trabajo con Git y GitHub: crear un repositorio local, vincularlo con un repositorio remoto, versionar un archivo README, trabajar con ramas, generar una Pull Request y realizar el merge hacia la rama principal.
+
+## Modificacion desde rama secundaria
+
+Esta seccion fue agregada desde la rama `actualizacion-readme` para evidenciar el trabajo con ramas y Pull Requests solicitado en la actividad.
